@@ -1,4 +1,4 @@
-# SendSplitToMixpanel
+# SendMixpanelToSplit
 
 The provided code is a lambda function that can be uploaded and used as a way to send mixpanel events to split
 
